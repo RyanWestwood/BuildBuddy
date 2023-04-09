@@ -1,6 +1,6 @@
 # BuildBuddy
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55410510/230521922-f843f5fe-e611-461b-bf37-99f0dc22e4cf.png" alt="BuildBuddy Logo">
+  <img src="https://user-images.githubusercontent.com/55410510/230748750-452bae9b-4e48-4cd4-b4e4-0400bfa34617.png" alt="BuildBuddy Logo">
 </p>
 BuildBuddy is a streamlined solution that provides custom Windows and Linux images and containers for self-hosted GitHub Actions. Our primary focus is on C/C++ projects utilizing CMake, Ninja, MSVC, GCC, and Clang. BuildBuddy enhances continuous integration and simplifies the build process for developers.    
   
